@@ -31,9 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed2005&show_icons=true&locale=en" alt="mohamedahmed2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed2005&" alt="mohamedahmed2005" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph.svg">
-</picture>
