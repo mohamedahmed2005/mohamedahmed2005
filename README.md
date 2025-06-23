@@ -1,4 +1,30 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+<h1 id="typewriter" align="center"></h1>
+<script>
+  const phrases = ["Hi 👋, I'm Mohamed Ahmed", "How are you? 😊"];
+  const el = document.getElementById("typewriter");
+  let part = 0, index = 0, isDeleting = false;
+
+  function type() {
+    const current = phrases[part];
+    const text = isDeleting
+      ? current.substring(0, index--)
+      : current.substring(0, index++);
+
+    el.innerHTML = text;
+
+    if (!isDeleting && index === current.length) {
+      if (part === 0) setTimeout(() => isDeleting = true, 1000);
+      else return;
+    } else if (isDeleting && index === 0) {
+      isDeleting = false;
+      part++;
+    }
+
+    setTimeout(type, isDeleting ? 40 : 100);
+  }
+
+  type();
+</script>
 <h3 align="center">A passionate FullStack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedahmed2005&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedahmed2005" /> </p>
