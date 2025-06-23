@@ -54,3 +54,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph.svg">
 </picture>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
