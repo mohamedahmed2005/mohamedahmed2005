@@ -1,30 +1,6 @@
-<h1 id="typewriter" align="center"></h1>
-<script>
-  const phrases = ["Hi 👋, I'm Mohamed Ahmed", "How are you? 😊"];
-  const el = document.getElementById("typewriter");
-  let part = 0, index = 0, isDeleting = false;
-
-  function type() {
-    const current = phrases[part];
-    const text = isDeleting
-      ? current.substring(0, index--)
-      : current.substring(0, index++);
-
-    el.innerHTML = text;
-
-    if (!isDeleting && index === current.length) {
-      if (part === 0) setTimeout(() => isDeleting = true, 1000);
-      else return;
-    } else if (isDeleting && index === 0) {
-      isDeleting = false;
-      part++;
-    }
-
-    setTimeout(type, isDeleting ? 40 : 100);
-  }
-
-  type();
-</script>
+<img src="https://drive.google.com/uc?export=view&id=1a2kwgMbTqpxH3e5LqWSjym2fegc7kkyW" 
+     alt="Typing Animation" 
+     style="display: block; margin-left: auto; margin-right: auto">
 <h3 align="center">A passionate FullStack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedahmed2005&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedahmed2005" /> </p>
@@ -37,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-ahmed-ba0815307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ahmed-ba0815307" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-ahmed-ba0815307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target = "_blank" alt="mohamed-ahmed-ba0815307" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hamood_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hamood_ahmed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamedahmed2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedahmed2005" height="30" width="40" /></a>
 </p>
