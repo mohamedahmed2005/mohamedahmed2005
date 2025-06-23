@@ -48,9 +48,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<img src="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/main/output/snake.svg" alt="Snake animation" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedahmed2005&show_icons=true&locale=en&layout=compact" alt="mohamedahmed2005" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmed2005&show_icons=true&locale=en" alt="mohamedahmed2005" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedahmed2005&" alt="mohamedahmed2005" />
-</div>
+<h1>Contributions</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph.svg">
+</picture>
