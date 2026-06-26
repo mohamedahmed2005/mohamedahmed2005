@@ -1,79 +1,156 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Mohamed%20Ahmed&fontSize=70&color=0:2c3e50,100:000000&stroke=3498db&strokeWidth=1&animation=fadeIn" width="100%" />
 
-  <br />
+<!-- HEADER SECTION: Styled with male/professional dark blue and cyan gradients -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Mohamed%20Ahmed&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20ASP.NET%20Core%20|%20Information%20Systems%20Student&descAlignY=55&descSize=20"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cascadia+Code&size=28&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=600&lines=+Backend+Developer;+ASP.NET+Core+Expert;+Clean+Architecture+Advocate;+SQL+Performance+Tuning" alt="Typing SVG" />
-  
-  <hr width="50%" />
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=mohamedahmed2005&label=Profile%20Views&color=4a90e2&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/mohamedahmed2005?label=Follow&style=social" alt="Followers" />
-  </p>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Backend+Developer;ASP.NET+Core+Developer;Software+Engineer"/>
+
+<br/><br/>
+
+<!-- BADGES AND COUNTERS -->
+<img src="https://komarev.com/ghpvc/?username=mohamedahmed2005&style=for-the-badge&color=06B6D4"/>
+<img src="https://img.shields.io/github/followers/mohamedahmed2005?style=for-the-badge&logo=github&color=0F172A"/>
+<img src="https://img.shields.io/github/stars/mohamedahmed2005?style=for-the-badge&logo=github&color=1D4ED8"/>
+
 </div>
 
----
+<!-- CUSTOM ANIMATED LOADING BAR: Neon Cyan & Dark Blue (Runs, Fades In & Out) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
 
-### Curriculum Vitae
-<p align="left">
-  <a href="https://drive.google.com/file/d/1Ib2q4ZGviIAUmMkozBEQGSlZfT46RSrK/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download-My_Resume-3498db?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" width="35"/> About Me
 
+<img align="right" width="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
----
+I'm an **Information Systems** student at Cairo University with a strong passion for building high-performance, scalable backend architectures. I specialize in the **.NET ecosystem (C#, ASP.NET Core, EF Core)**, working with clean architecture, CQRS, and database optimization. Currently, I'm expanding my stack into Cloud and Distributed Systems while sharpening my problem-solving skills. Let's build something efficient! 🚀
 
-### About Me
-- **Junior IS Student** at the Faculty of Computers and AI, Cairo University.
-- **Backend Developer** specializing in building scalable systems with **ASP.NET Core**.
-- Deeply interested in **Database Engineering**, Query Optimization, and ETL processes (SSIS).
-- **Competitive Programmer** active on Codeforces and LeetCode.
-- Currently focused on refining **Clean Architecture** patterns in enterprise-level applications.
+<br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
 
-### Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,py,cpp,git,visualstudio,vscode,postman&theme=dark" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" /> 
-</p>
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"/> Tech Stack
 
----
-
-### GitHub Statistics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedahmed2005&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed2005&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedahmed2005&theme=transparent&hide_border=true" />
-</p>
-
----
-
-### Contribution Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohamedahmed2005/mohamedahmed2005/output/pacman-contribution-graph-dark.svg" width="100%" />
+
+<!-- TECH STACK TABLE: Organized grid structure -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Languages</h4>
+      <img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js&theme=dark"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Backend & Core</h4>
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Databases</h4>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Tools & Environments</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
 
-### Let's Connect!
-<p align="center">
-<a href="https://linkedin.com/in/mohamed-ahmed-ba0815307">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+# <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"/> GitHub Statistics
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <!-- Card 1: General Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedahmed2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22D3EE&icon_color=38BDF8&text_color=94A3B8" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <!-- Card 2: Top Languages Used -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedahmed2005&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Streak Stats -->
+<img width="100%" src="https://streak-stats.demolab.com?user=mohamedahmed2005&theme=tokyonight&hide_border=true&stroke=0284C7&background=1a1b26"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
+
+# <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="35"/> Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedahmed2005&theme=tokyo-night&hide_border=true&color=38BDF8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
+
+# <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"/> Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
+
+# <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="35"/> Top Repositories
+
+<div align="center">
+
+<!-- Featured Repository Cards Placed Side-by-Side -->
+<a href="https://github.com/Mohammed-3tef/European_Football_Leagues_DataWarehouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-3tef&repo=European_Football_Leagues_DataWarehouse&theme=tokyonight&title_color=22D3EE&icon_color=38BDF8&text_color=94A3B8" />
 </a>
+<a href="https://github.com/Amr-Khaled-Ahmed/Online-Library-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Online-Library-website&theme=tokyonight&title_color=22D3EE&icon_color=38BDF8&text_color=94A3B8" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
+
+# <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"/> Connect With Me
+
+<div align="center">
+
 <a href="mailto:ahmd.mohamed200515@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://codeforces.com/profile/hamood_ahmed">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+<a href="https://linkedin.com/in/mohamed-ahmed-ba0815307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="https://leetcode.com/mohamedahmed2005">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-</p>
+
+<a href="https://codeforces.com/profile/hamood_ahmed">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:06B6D4&height=5&section=header&animation=twinkling"/>
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories ⭐
+
+<!-- FOOTER SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer"/>
+
+</div>
